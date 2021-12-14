@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHxPF+TCXJsnu0yE0GHGb6ZgyGjvi7OveZ1KgAhRr2ZJ2Y/2biHAlm6rslQ4e+5YpcOAe3Bz5Z3EIsY7urqRPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Media_player_nw\\Media_player_nw\\Media_player_nw.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\bunifu.dataviz.winforms\\2.1.8\\bunifu.dataviz.winforms.2.1.8.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\bunifu.ui.winforms\\5.0.9\\bunifu.ui.winforms.5.0.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Bunifu.Dataviz.WinForms 2.1.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Bunifu.Dataviz.WinForms",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Bunifu.UI.WinForms 5.0.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Bunifu.UI.WinForms",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
